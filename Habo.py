@@ -2,3 +2,6 @@
 
 print("ADE HERMAN")
 print("Keluarga")
+
+
+print("BElAJAR SEMANGAT")
